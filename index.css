@@ -34,6 +34,7 @@ table{
     border:none; 
     border:2px solid #240b36;
     border-radius: 10px;
+    outline:none;
 }
 button{
     width:60px;
@@ -46,6 +47,7 @@ button{
     border:2px solid #240b36;
     cursor: pointer;
     border-radius: 10px;
+    outline:none;
 }
 button:hover {
     transform: scale(1.05);
